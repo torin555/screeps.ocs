@@ -1,6 +1,27 @@
 # OCS
 ## Constitution of Open Collaboration Society
 
+### 1. Group structure & roles
+
+_under construction_
+
+**Ideas:**
+
+* Community manager
+  * manage invitations
+  * manage come/leave/change processes
+  * responsible for advertisement and group growth
+  * responsible for public perception
+* Repo/code manager
+  * push access to the dev branch
+* Quality manager
+  * Management of issue list
+  * Closing of issues 
+* Diplomatic affairs manager
+  * track other alliances behaviours
+
+### 2. Ingame behaviour
+
 1. Aggresive acts against players of the group (OCS) or any other alliance, as listed on the LOAN map (http://www.leagueofautomatednations.com/map), require consensus of the group. 
 2. Smaller players without membership in an alliance can be harmed or eliminated by individual decision. This are only those players with owned rooms < 4 and GCL < 5.
 3. Players without membership in an alliance which don't fall into the definition of §2 may not get harmed, but should get an official invitation for the group at first.  
