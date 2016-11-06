@@ -23,6 +23,10 @@ _under construction_
 * Diplomatic affairs manager
   * track other alliances behaviours
   * cross alliance communication
+* Internal affairs manager
+  * take care of internal issues
+  * manage internal announcements
+  * identity management (who is who)
 
 ### 2. Ingame behaviour
 
