@@ -7,6 +7,9 @@ _under construction_
 
 **Ideas:**
 
+* Group manager
+  * Administrative access to all repositories
+  * Deputy for all other roles
 * Community manager
   * manage invitations
   * manage come/leave/change processes
