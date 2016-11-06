@@ -9,6 +9,7 @@ _under construction_
 
 * Group manager
   * Administrative access to all repositories
+  * Constitutional amendment
   * Deputy for all other roles
 * Community manager
   * manage invitations
@@ -16,17 +17,19 @@ _under construction_
   * responsible for advertisement and group growth
   * responsible for public perception
 * Repo/code manager
+  * code review
   * push access to the dev branch
 * Quality manager
   * Management of issue list
+  * Solution validation
   * Closing of issues 
 * Diplomatic affairs manager
-  * track other alliances behaviours
-  * cross alliance communication
+  * Monitoring of other alliances
+  * Cross alliance communication
 * Internal affairs manager
-  * take care of internal issues
-  * manage internal announcements
-  * identity management (who is who)
+  * Take care of internal issues
+  * Manage internal announcements
+  * Identity management (who is who)
 
 ### 2. Ingame behaviour
 
