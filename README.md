@@ -19,6 +19,7 @@ _under construction_
   * Closing of issues 
 * Diplomatic affairs manager
   * track other alliances behaviours
+  * cross alliance communication
 
 ### 2. Ingame behaviour
 
