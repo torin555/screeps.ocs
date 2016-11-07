@@ -7,29 +7,35 @@ _under construction_
 
 **Ideas:**
 
-* Group manager
+* Group Manager
   * Administrative access to all repositories
   * Constitutional amendment
   * Deputy for all other roles
-* Community manager
-  * manage invitations
-  * manage come/leave/change processes
-  * responsible for advertisement and group growth
-  * responsible for public perception
-* Repo/code manager
+  
+* Community Manager
+  * Manage invitations
+  * Responsible for advertisement and group growth
+  * Responsible for public perception
+  
+* Architect
   * code review
   * push access to the dev branch
-* Quality manager
+  
+* Product Manager
   * Management of issue list
   * Solution validation
   * Closing of issues 
-* Diplomatic affairs manager
+  
+* Ambassador
   * Monitoring of other alliances
   * Cross alliance communication
-* Internal affairs manager
+  
+* Clerk
+  * Identity management (who is who)
+  * Manage come/leave/change processes
   * Take care of internal issues
   * Manage internal announcements
-  * Identity management (who is who)
+
 
 ### 2. Ingame behaviour
 
