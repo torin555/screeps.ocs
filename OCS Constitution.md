@@ -10,31 +10,43 @@ _under construction_
 * Group Manager
   * Administrative access to all repositories
   * Constitutional amendment
-  * Deputy for all other roles
+  * Deputy for all other roles  
+  * candidates
+    * cyberblast
   
 * Community Manager
   * Manage invitations
   * Responsible for advertisement and group growth
   * Responsible for public perception
+  * candidates 
+    * Xephael
   
 * Architect
   * code review
   * push access to the dev branch
+  * candidates
+    * Forkmantis  
   
 * Product Manager
   * Management of issue list
   * Solution validation
   * Closing of issues 
+  * candidates
+    * MrDave
   
 * Ambassador
   * Monitoring of other alliances
   * Cross alliance communication
+  * candidates
+    * SirLovi
   
 * Clerk
   * Identity management (who is who)
   * Manage come/leave/change processes
   * Take care of internal issues
   * Manage internal announcements
+  * candidates
+    * Asku
 
 
 ### 2. Ingame behaviour
