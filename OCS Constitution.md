@@ -39,3 +39,12 @@ _under construction_
   1. The invited player has a time limit of 5 days to react.
   2. The invited player may be target of aggressive actions if he/she does not react within the time limit.
   3. If the invited player reacts on the invitation (before or after the time limit) and is not joining the alliance he may be harmed/eliminated, unless there are reasons and a consensus of the group not to do so.
+
+
+
+----------
+
+
+
+Donations, e.g. to maintain private repositories, are welcome. 
+Please [use paypal](https://www.paypal.me/rakowitz).
