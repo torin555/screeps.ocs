@@ -40,7 +40,7 @@ _under construction_
   * candidates
     * SirLovi
   
-* Clerk
+* Secretary
   * Identity management (who is who)
   * Manage come/leave/change processes
   * Take care of internal issues
