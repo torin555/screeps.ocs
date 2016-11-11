@@ -3,50 +3,35 @@
 
 ### 1. Group structure & roles
 
-_under construction_
-
-**Ideas:**
-
-* Group Manager
+* Group Manager [cyberblast]
   * Administrative access to all repositories
   * Constitutional amendment
   * Deputy for all other roles  
-  * candidates
-    * cyberblast
   
-* Community Manager
-  * Manage invitations
-  * Responsible for advertisement and group growth
-  * Responsible for public perception
-  * candidates 
-    * Xephael
-  
-* Architect
-  * code review
-  * push access to the dev branch
-  * candidates
-    * Forkmantis  
-  
-* Product Manager
-  * Management of issue list
-  * Solution validation
-  * Closing of issues 
-  * candidates
-    * MrDave
-  
-* Ambassador
-  * Monitoring of other alliances
-  * Cross alliance communication
-  * candidates
-    * SirLovi
-  
-* Secretary
+* Secretary [Asku]
   * Identity management (who is who)
   * Manage come/leave/change processes
   * Take care of internal issues
   * Manage internal announcements
-  * candidates
-    * Asku
+  
+* Ambassador [SirLovi]
+  * Monitoring of other alliances
+  * Cross alliance communication
+  
+* Architect [Forkmantis]
+  * code review
+  * push access to the dev branch
+  
+* Community Manager [Xephael]
+  * Manage invitations
+  * Responsible for advertisement and group growth
+  * Responsible for public perception
+  
+* Product Manager [MrDave]
+  * Management of issue list
+  * Solution validation
+  * Closing of issues 
+  
 
 
 ### 2. Ingame behaviour
