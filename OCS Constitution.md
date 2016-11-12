@@ -49,5 +49,5 @@
 
 
 
-Donations, e.g. to maintain private repositories, are welcome. 
-Please [use paypal](https://www.paypal.me/rakowitz).
+Donations, e.g. to maintain private repositories, are welcome.  
+Please [use paypal](https://www.paypal.me/rakowitz) or send an [amazon voucher](https://www.amazon.de/dp/B0054PDOV8) to ocs@cyberblast.org or have a look at [the wishlist](https://www.amazon.de/gp/registry/wishlist/2MIY1Q2RFJQ86).
