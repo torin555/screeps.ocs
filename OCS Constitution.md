@@ -1,7 +1,7 @@
-# OCS
-## Constitution of Open Collaboration Society
+#OCS
+##Constitution of Open Collaboration Society
 
-### 1. Group structure & roles
+###1. Group structure & roles
 
 * Group Manager [cyberblast]
   * Administrative access to all repositories
@@ -34,7 +34,7 @@
   
 
 
-### 2. Ingame behaviour
+###2. Ingame behaviour
 
 1. Aggressive acts against players of the group (OCS) or any other alliance, as listed on the LOAN map (http://www.leagueofautomatednations.com/map), require consensus of the group. 
 2. Smaller players without membership in an alliance can be harmed or eliminated by individual decision. These are only those players with owned rooms < 4 and GCL < 5.
@@ -43,14 +43,14 @@
   2. The invited player may be target of aggressive actions if he/she does not react within the time limit.
   3. If the invited player reacts on the invitation and is not joining the alliance he may be harmed/eliminated, unless there are reasons and a consensus of the group not to do so. 
 
-### 3. Diplomatic Status
+###3. Diplomatic Status
 
 We try to be as neutral as possible. Excepmtions are listed below. 
 
-#### 3.1 Non Aggression Pacts
+####3.1 Non Aggression Pacts
 none
 
-#### 3.2 War
+####3.2 War
 none
 
 
