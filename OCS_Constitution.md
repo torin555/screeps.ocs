@@ -44,7 +44,7 @@
 
 ## 3. Diplomatic Status
 
-We try to be as neutral as possible. Excepmtions are listed below. 
+We try to be as neutral as possible. Excemptions are listed below. 
 
 ### 3.1 Non Aggression Pacts
 none
