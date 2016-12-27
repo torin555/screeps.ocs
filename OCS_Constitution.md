@@ -13,7 +13,7 @@
     * Take care of internal issues
     * Manage internal announcements
   
-  * Ambassador [SirLovi]
+  * Ambassador [doctorpc]
     * Monitoring of other alliances
     * Cross alliance communication
   
