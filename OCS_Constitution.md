@@ -13,7 +13,7 @@
     * Take care of internal issues
     * Manage internal announcements
   
-  * Ambassador [doctorpc]
+  * Ambassador [ ]
     * Monitoring of other alliances
     * Cross alliance communication
   
