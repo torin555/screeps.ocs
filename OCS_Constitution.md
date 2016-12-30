@@ -50,7 +50,8 @@ We try to be as neutral as possible. Excemptions are listed below.
 none
 
 ### 3.2 War
-none
+* The Hive [Hive]
+* Greater North-Eastern Co-Prosperity Sphere [CoPS]
 
 
 ----------
