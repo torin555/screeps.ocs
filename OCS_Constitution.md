@@ -1,6 +1,45 @@
 # Constitution of Open Collaboration Society
 
-## 1. Group structure & roles
+## 1. Charta  
+  
+  1. Each member of the group represents an autonomous individual and is responsible for any of her/his actions alone. 
+  2. Official declarations, notifications or any official messages made by OCS to OCS members, non OCS members or other groups, must be stated by an official representative of the group only (see 3.5. Representatives). 
+  3. Aggressive acts by members of OCS against other players or groups may be considered as individual acts by that player, if not announced officially by the OCS *Ambassador* or OCS *Group Manager* (see 3.5. Representatives) prior to the act taking place. 
+  4. Official announcements made by OCS must at least be (1) made made public to the OCS membership (e.g. using slack) and (2) send to affected non OCS players (e.g. via screeps ingame message) or groups (e.g. via slack or to a representative of that group via ingame message).
+
+
+## 2. Member Admission
+
+  1. Admission of new members requires approval of all members of all sectors (block of rooms around SK center rooms, framed by controlerless "highway" rooms) that candidate has rooms of.  
+  2. The OCS *Secretary* will inform all affected members of such a case. Those members my or may not react on that notification within 3 days (min. 72h). A missing statement means approval of that candidate.  
+  3. As soon as all affected members approved a candidate, it may join the alliance.  
+  4. If there is a rejection, that candidate may not join until the rejection has been retracted or the candidate relocates all rooms in all sectors which are in common with that rejecting member.  
+  5. If the candidate claims any new rooms during the admission process, affecting new sectors, its inhabitants will get notified and asked for approval, as defined in §2.2 and a new approval time period starts.  
+
+
+## 3. Responsibilities
+
+### 3.1. Code Development
+
+TBD according to representatives
+
+### 3.2. Internal affairs
+
+TBD according to representatives
+
+### 3.3. External affairs
+
+  1. Official invitations must be made by the *Community Manager* or its deputy. 
+  2. Official declarations or messages to other groups must be delivered by the *Ambassador* or its deputy. 
+  3. Official declarations of war must be delivered by the *Ambassador* or its deputy. 
+  4. Official messages, other than defined above, must be made by a representative of the group. 
+
+
+### 3.4. General
+
+TBD according to representatives
+
+### 3.5. Representatives
 
   * Group Manager [cyberblast]
     * Administrative access to all repositories
@@ -31,25 +70,6 @@
     * Solution validation
     * Closing of issues 
   
-
-## 2. Member Admission
-
-  1. Admission of new members requires approval of all members of all sectors (block of rooms around SK center rooms, framed by controlerless "highway" rooms) that candidate has rooms of.  
-  2. The secretary will inform all affected members of such a case. Those members my or may not react on that notification within 3 days (min. 72h). A missing statement means approval of that candidate.  
-  3. As soon as all affected members approved a candidate, it may join the alliance.  
-  4. If there is a rejection, that candidate may not join until the rejection has been retracted or the candidate relocates all rooms in all sectors which are in common with that rejecting member.  
-  5. If the candidate claims any new rooms during the admission process, affecting new sectors, its inhabitants will get notified and asked for approval, as defined in §2.2 and a new approval time period starts.  
-
-
-## 3. Ingame behaviour
-
-  1. Aggressive acts against players of the group (OCS) or any other alliance, as listed on the LOAN map (http://www.leagueofautomatednations.com/map), require consensus of the group.  
-  2. Smaller players without membership in an alliance can be harmed or eliminated by individual decision. These are only those players with owned rooms < 4 and GCL < 5.  
-  3. Players without membership in an alliance which don't fall into the definition of §3.2 may not get harmed, but should get an official invitation for the group at first. The invitation has to be made by either the Community Manager or Group Manager.  
-    1. The invited player has a time limit of 5 days to react. The invitation loses liability beyond this limit. Accomodation is still possible after the deadline the but requires consensus of the group.  
-    2. The invited player may be target of aggressive actions if he/she does not react within the time limit.  
-    3. If the invited player reacts on the invitation and is not joining the alliance he may be harmed/eliminated, unless there are reasons and a consensus of the group not to do so.  
-
 ## 4. Diplomatic Status
 
 We try to be as neutral as possible. Excemptions are listed below. 
@@ -60,8 +80,6 @@ none
 ### 4.2 War
 * The Hive [Hive]
 * Greater North-Eastern Co-Prosperity Sphere [CoPS]
-
-
 
 
 *cyberblast, 18.01.2017*
