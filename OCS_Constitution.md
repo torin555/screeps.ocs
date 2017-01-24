@@ -21,31 +21,18 @@
 
 ## 3. Responsibilities
 
-### 3.1. Code Development
-
-TBD according to representatives
-
-### 3.2. Internal affairs
-
-TBD according to representatives
+### 3.1. Internal affairs
 
 1. Addmission of new members must be processed by the OCS *Secretary* or its deputy. 
 
-### 3.3. External affairs
-
-TBD according to representatives
+### 3.2. External affairs
 
 1. Official invitations must be made by the OCS *Community Manager* or its deputy. 
 2. Official declarations or messages to other groups must be delivered by the OCS *Ambassador* or its deputy. 
 3. Official declarations of war must be delivered by the OCS *Ambassador* or its deputy. 
 4. Official messages, other than defined above, must be made by a representative of the group. 
 
-
-### 3.4. General
-
-TBD according to representatives
-
-### 3.5. Representatives
+### 3.3. Representatives
 
 * Group Manager [cyberblast]
   * Administrative access to all repositories
@@ -88,7 +75,7 @@ none
 * Greater North-Eastern Co-Prosperity Sphere [CoPS]
 
 
-*cyberblast, 18.01.2017*
+*cyberblast, Group Manager, 24.01.2017*
 
 ----------
 
