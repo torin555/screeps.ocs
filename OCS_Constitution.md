@@ -52,9 +52,9 @@
 * Community Managers [Xephael]
   * Monitoring of other alliances  
   * Cross alliance communication
-  * Manage invitations
-  * Manage come/leave/change processes
-  * Responsible for advertisement and group growth
+  * Manage invitations
+  * Manage come/leave/change processes
+  * Responsible for advertisement and group growth
   * Responsible for public perception
   
 * Product Managers [MrDave]
