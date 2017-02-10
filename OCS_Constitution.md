@@ -49,8 +49,8 @@
   * code review
   * push access to the dev branch
   
+  
 * Community Managers [Xephael]
-
   * Monitoring of other alliances  
   * Cross alliance communication
   * Manage invitations
