@@ -23,18 +23,18 @@
 
 ### 3.1. Internal affairs
 
-1. Addmission of new members must be processed by the OCS *Secretary* or its deputy. 
+1. Addmission of new members must be processed by a OCS *Representative* or its deputy. 
 
 ### 3.2. External affairs
 
-1. Official invitations must be made by the OCS *Community Manager* or its deputy. 
-2. Official declarations or messages to other groups must be delivered by the OCS *Ambassador* or its deputy. 
-3. Official declarations of war must be delivered by the OCS *Ambassador* or its deputy. 
+1. Official invitations must be made by a OCS *Representative* or its deputy. 
+2. Official declarations or messages to other groups must be delivered by a OCS *Representative* or its deputy. 
+3. Official declarations of war must be delivered by a OCS *Representative* or its deputy. 
 4. Official messages, other than defined above, must be made by a representative of the group. 
 
 ### 3.3. Representatives
 
-* Group Manager [cyberblast]
+* Group Managers [cyberblast / Asku]
   * Administrative access to all repositories
   * Constitutional amendment
   * Deputy for all other roles  
@@ -45,20 +45,19 @@
   * Take care of internal issues
   * Manage internal announcements
   
-* Ambassador [ ]
-  * Monitoring of other alliances
-  * Cross alliance communication
- 
-* Architect [Forkmantis]
+* Architects [Forkmantis / Karlthepagan]
   * code review
   * push access to the dev branch
   
-* Community Manager [Xephael]
-  * Manage invitations
-  * Responsible for advertisement and group growth
+* Community Managers [Xephael]
+  * Monitoring of other alliances  
+  * Cross alliance communication
+  * Manage invitations
+  * Manage come/leave/change processes
+  * Responsible for advertisement and group growth
   * Responsible for public perception
   
-* Product Manager [MrDave]
+* Product Managers [MrDave]
   * Management of issue list
   * Solution validation
   * Closing of issues 
