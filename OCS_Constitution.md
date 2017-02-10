@@ -48,10 +48,9 @@
 * Architects [Forkmantis / Karlthepagan]
   * code review
   * push access to the dev branch
-  
-  
+
 * Community Managers [Xephael]
-  * Monitoring of other alliances  
+  * Monitoring of other alliances
   * Cross alliance communication
   * Manage invitations
   * Manage come/leave/change processes
