@@ -46,6 +46,7 @@
   * Manage internal announcements
   
 * Architects [Forkmantis / Karlthepagan]
+* Deputy Architects [Chobobobo]
   * code review
   * push access to the dev branch
 
