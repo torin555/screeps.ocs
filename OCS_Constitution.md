@@ -13,7 +13,7 @@
 ## 2. Member Admission
 
 1. Admission of new members requires approval of all members of all sectors (block of rooms around SK center rooms, framed by controlerless "highway" rooms) that candidate has rooms of.  
-2. The OCS *Secretary* will inform all affected members of such a case. Those members my or may not react on that notification within 3 days (min. 72h). A missing statement means approval of that candidate.  
+2. The OCS *Secretary* will inform all affected members of such a case. Those members may or may not react on that notification within 3 days (min. 72h). A missing statement means approval of that candidate.  
 3. As soon as all affected members approved a candidate, it may join the alliance.  
 4. If there is a rejection, that candidate may not join until the rejection has been retracted or the candidate relocates all rooms in all sectors which are in common with that rejecting member.  
 5. If the candidate claims any new rooms during the admission process, affecting new sectors, its inhabitants will get notified and asked for approval, as defined in §2.2 and a new approval time period starts.  
