@@ -17,6 +17,7 @@
 3. As soon as all affected members approved a candidate, it may join the alliance.  
 4. If there is a rejection, that candidate may not join until the rejection has been retracted or the candidate relocates all rooms in all sectors which are in common with that rejecting member.  
 5. If the candidate claims any new rooms during the admission process, affecting new sectors, its inhabitants will get notified and asked for approval, as defined in §2.2 and a new approval time period starts.  
+6. Candidates must be GCL3 or above. If below this, applicants are welcome to hang out in #ocs, use our public code, contribute, ask questions until they reach GCL3. 
 
 
 ## 3. Responsibilities
