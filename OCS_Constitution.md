@@ -46,8 +46,8 @@
   * Take care of internal issues
   * Manage internal announcements
   
-* Architects [Forkmantis / Karlthepagan]
-* Deputy Architects [Chobobobo]
+* Architects [Forkmantis / Karlthepagan / Chobobobo]
+* Deputy Architects [Spedwards]
   * code review
   * push access to the dev branch
 
