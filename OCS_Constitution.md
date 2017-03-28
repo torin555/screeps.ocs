@@ -25,6 +25,8 @@
 ### 3.1. Internal affairs
 
 1. Addmission of new members must be processed by a OCS *Representative* or its deputy. 
+2. Society members must not intentionally harm the assets of another society member. 
+3. Society members must act in good faith to preserve the society's diplomatic agreements. (see §4)
 
 ### 3.2. External affairs
 
