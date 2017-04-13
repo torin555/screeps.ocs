@@ -66,6 +66,12 @@
   * Solution validation
   * Closing of issues 
   
+### 3.4. Termination
+
+1. Members not adhering to their responsibilities will be subject to the majority judgement of a disciplinary council composed of the other representatives. 
+2. Disciplinary judgements may be vetoed by a group manager. 
+3. Individuals who are not society members are required to destroy their copies of the OCS private code which was published following [commit 905513](https://github.com/cyberblast/screeps.ocs.internal/commit/905513) (January 18, 2017).
+
 ## 4. Diplomatic Status
 
 We try to be as neutral as possible. Excemptions are listed below. 
