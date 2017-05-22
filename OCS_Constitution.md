@@ -37,19 +37,18 @@
 
 ### 3.3. Representatives
 
-* Group Managers [cyberblast / Asku]
+* Group Managers [cyberblast]
   * Administrative access to all repositories
   * Constitutional amendment
   * Deputy for all other roles  
   
-* Secretary [Asku]
+* Secretary [***vacant***]
   * Identity management (who is who)
   * Manage come/leave/change processes
   * Take care of internal issues
   * Manage internal announcements
   
-* Architects [Forkmantis / Karlthepagan / Chobobobo]
-* Deputy Architects [Spedwards]
+* Architects [Forkmantis / Spedwards / Chobobobo]
   * code review
   * push access to the dev branch
 
@@ -80,11 +79,9 @@ We try to be as neutral as possible. Excemptions are listed below.
 none
 
 ### 4.2 War
-* The Hive [Hive]
-* Greater North-Eastern Co-Prosperity Sphere [CoPS]
+none
 
-
-*cyberblast, Group Manager, 24.01.2017*
+*cyberblast, Group Manager, 22.05.2017*
 
 ----------
 
