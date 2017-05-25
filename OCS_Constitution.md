@@ -5,7 +5,7 @@
 ## 1. Charta  
   
 1. Each member of the group represents an autonomous individual and is responsible for any of her/his actions alone. 
-2. Official declarations, notifications or any official messages made by OCS to OCS members, non OCS members or other groups, must be stated by an official representative of the group only (see 3.5. Representatives). 
+2. Official declarations, notifications or any official messages made by [OCS] to OCS members, to non OCS members or to other groups, must be stated by an official representative of the group only (see 3.5. Representatives). 
 3. Aggressive acts by members of OCS against other players or groups may be considered as individual acts by that player, if not announced officially by the OCS *Community Manager* or OCS *Group Manager* (see 3.3. Representatives) prior to the act taking place. 
 4. Official announcements made by OCS must at least be (1) made made public to the OCS membership (e.g. using slack) and (2) send to affected non OCS players (e.g. via screeps ingame message) or groups (e.g. via slack or to a representative of that group via ingame message).
 
