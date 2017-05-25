@@ -6,7 +6,7 @@
   
 1. Each member of the group represents an autonomous individual and is responsible for any of her/his actions alone. 
 2. Official declarations, notifications or any official messages made by OCS to OCS members, non OCS members or other groups, must be stated by an official representative of the group only (see 3.5. Representatives). 
-3. Aggressive acts by members of OCS against other players or groups may be considered as individual acts by that player, if not announced officially by the OCS *Community Manager* or OCS *Group Manager* (see 3.5. Representatives) prior to the act taking place. 
+3. Aggressive acts by members of OCS against other players or groups may be considered as individual acts by that player, if not announced officially by the OCS *Community Manager* or OCS *Group Manager* (see 3.3. Representatives) prior to the act taking place. 
 4. Official announcements made by OCS must at least be (1) made made public to the OCS membership (e.g. using slack) and (2) send to affected non OCS players (e.g. via screeps ingame message) or groups (e.g. via slack or to a representative of that group via ingame message).
 
 
@@ -64,12 +64,6 @@
   * Management of issue list
   * Solution validation
   * Closing of issues 
-  
-### 3.4. Termination
-
-1. Members not adhering to their responsibilities will be subject to the majority judgement of a disciplinary council composed of the other representatives. 
-2. Disciplinary judgements may be vetoed by a group manager. 
-3. Individuals who are not society members are required to destroy their copies of the OCS private code which was published following [commit 905513](https://github.com/cyberblast/screeps.ocs.internal/commit/905513) (January 18, 2017).
 
 ## 4. Diplomatic Status
 
