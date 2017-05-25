@@ -48,7 +48,7 @@
   * Take care of internal issues
   * Manage internal announcements
   
-* Architects [Forkmantis / Spedwards / Chobobobo]
+* Architects [Forkmantis / Chobobobo]
   * code review
   * push access to the dev branch
 
@@ -81,7 +81,7 @@ none
 ### 4.2 War
 none
 
-*cyberblast, Group Manager, 22.05.2017*
+*cyberblast, Group Manager, 25.05.2017*
 
 ----------
 
