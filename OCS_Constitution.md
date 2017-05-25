@@ -42,7 +42,7 @@
   * Constitutional amendment
   * Deputy for all other roles  
   
-* Secretary [***vacant***]
+* Secretary [Xephael]
   * Identity management (who is who)
   * Manage come/leave/change processes
   * Take care of internal issues
