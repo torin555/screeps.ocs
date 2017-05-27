@@ -42,17 +42,17 @@
   * Constitutional amendment
   * Deputy for all other roles  
   
-* Secretary [Xephael]
+* Secretary [vacant]
   * Identity management (who is who)
   * Manage come/leave/change processes
   * Take care of internal issues
   * Manage internal announcements
   
-* Architects [Forkmantis / Chobobobo / Spedwards]
+* Architects [vacant]
   * code review
   * push access to the dev branch
 
-* Community Managers [Xephael]
+* Community Managers [vacant]
   * Monitoring of other alliances
   * Cross alliance communication
   * Manage invitations
@@ -60,7 +60,7 @@
   * Responsible for advertisement and group growth
   * Responsible for public perception
   
-* Product Managers [MrDave]
+* Product Managers [vacant]
   * Management of issue list
   * Solution validation
   * Closing of issues 
@@ -75,9 +75,4 @@ none
 ### 4.2 War
 none
 
-*cyberblast, Group Manager, 25.05.2017*
-
-----------
-
-
-Donations, e.g. to maintain private repositories, are appreciated. Please use [paypal](https://www.paypal.me/rakowitz) (preferred) or [cash.me](https://cash.me/$ScreepsOCS).
+*cyberblast, Group Manager, 27.05.2017*
